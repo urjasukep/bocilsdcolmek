@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://bocilsmacolmek.pages.dev/sitemap.xml
